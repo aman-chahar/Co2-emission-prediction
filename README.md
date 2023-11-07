@@ -4,13 +4,13 @@ In the world of data science and machine learning, I recently completed a fascin
 
 ### Project Overview:
 
-📊 **Data Exploration**: We started by loading and exploring the dataset, checking for missing values and duplicates, and selecting the relevant features for our analysis.
+📊 **Data Exploration**: Started by loading and exploring the dataset, checking for missing values and duplicates, and selecting the relevant features for our analysis.
 
-📈 **Feature Engineering**: We narrowed down our focus to key features: Engine Size, Cylinder Count, and Fuel Consumption. These factors are known to influence a vehicle's CO2 emissions.
+📈 **Feature Engineering**: Narrowed down our focus to key features: Engine Size, Cylinder Count, and Fuel Consumption. These factors are known to influence a vehicle's CO2 emissions.
 
-🛠 **Model Training**: We split the data into training and testing sets and used a **Linear Regression model** to train on the training data. Linear Regression is a popular choice for predicting a continuous target variable based on one or more input features.
+🛠 **Model Training**: Split the data into training and testing sets and used a **Linear Regression model** to train on the training data. Linear Regression is a popular choice for predicting a continuous target variable based on one or more input features.
 
-🧪 **Model Testing**: We evaluated the model's performance using the **R-squared (R2) score**, a common metric to assess the goodness of fit of a regression model. Our model showed a strong correlation between the predicted and actual CO2 emissions.
+🧪 **Model Testing**: Evaluated the model's performance using the **R-squared (R2) score**, a common metric to assess the goodness of fit of a regression model. Our model showed a strong correlation between the predicted and actual CO2 emissions.
 
 🔮 **Real-Life Prediction**: This is where the project becomes practical. We can now use our trained model to make real-life predictions. For instance, if you provide the specifications of a truck with an engine size of 4, 8 cylinders, and a fuel consumption rating of 12, our model can estimate its CO2 emissions.
 
